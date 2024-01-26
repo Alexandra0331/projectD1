@@ -1,0 +1,75 @@
+Watching for file changes with StatReloader
+C:\Users\CAD CAM\projectD1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\CAD CAM\projectD1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+C:\Users\CAD CAM\projectD1\myproject\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+"GET / HTTP/1.1" 200 13
+C:\Users\CAD CAM\projectD1\myproject\myproject\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\Users\CAD CAM\projectD1\myproject\myapp\views.py", line 14, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+"GET /about/ HTTP/1.1" 200 27
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2441
+C:\Users\CAD CAM\projectD1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-01-25 15:35:45,448 autoreload 16824 8860 Watching for file changes with StatReloader
+INFO 2024-01-25 15:36:37,364 views 16824 3312 Index page accessed
+INFO 2024-01-25 15:36:37,364 basehttp 16824 3312 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 15:36:38,429 autoreload 16824 8860 C:\Users\CAD CAM\projectD1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-01-25 15:36:38,716 autoreload 4088 18112 Watching for file changes with StatReloader
+WARNING 2024-01-25 15:36:41,195 log 4088 10236 Not Found: /favicon.ico
+WARNING 2024-01-25 15:36:41,195 basehttp 4088 10236 "GET /favicon.ico HTTP/1.1" 404 2441
+WARNING 2024-01-25 15:44:05,744 log 4088 14444 Not Found: /favicon.ico
+WARNING 2024-01-25 15:44:05,745 basehttp 4088 14444 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-01-25 15:56:23,871 autoreload 14420 2564 Watching for file changes with StatReloader
+INFO 2024-01-25 15:56:29,274 views 14420 13188 Index page accessed
+INFO 2024-01-25 15:56:29,275 basehttp 14420 13188 "GET / HTTP/1.1" 200 13
+WARNING 2024-01-25 15:56:29,822 log 14420 13188 Not Found: /favicon.ico
+WARNING 2024-01-25 15:56:29,822 basehttp 14420 13188 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-01-25 16:02:15,739 autoreload 14420 2564 C:\Users\CAD CAM\projectD1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-01-25 16:02:16,034 autoreload 18452 1316 Watching for file changes with StatReloader
+INFO 2024-01-25 16:03:30,204 autoreload 18452 1316 C:\Users\CAD CAM\projectD1\myproject\myproject\settings.py changed, reloading.
+INFO 2024-01-25 16:03:30,495 autoreload 16512 10816 Watching for file changes with StatReloader
+INFO 2024-01-25 16:04:52,421 views 16512 8592 Index page accessed
+INFO 2024-01-25 16:04:52,422 basehttp 16512 8592 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 16:04:54,953 views 16512 8592 Index page accessed
+INFO 2024-01-25 16:04:54,953 basehttp 16512 8592 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 16:07:13,870 views 16512 8592 Index page accessed
+INFO 2024-01-25 16:07:13,871 basehttp 16512 8592 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 16:07:16,252 views 16512 8592 Index page accessed
+INFO 2024-01-25 16:07:16,252 basehttp 16512 8592 "GET / HTTP/1.1" 200 13
+WARNING 2024-01-25 16:07:21,061 log 16512 16472 Not Found: /favicon.ico
+WARNING 2024-01-25 16:07:21,062 basehttp 16512 16472 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-01-25 16:09:12,509 views 16512 18344 Index page accessed
+INFO 2024-01-25 16:09:12,510 basehttp 16512 18344 "GET / HTTP/1.1" 200 13
+WARNING 2024-01-25 16:09:12,755 log 16512 18344 Not Found: /favicon.ico
+WARNING 2024-01-25 16:09:12,755 basehttp 16512 18344 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-01-25 16:10:53,828 views 16512 18344 Index page accessed
+INFO 2024-01-25 16:10:53,828 basehttp 16512 18344 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 16:46:51,680 autoreload 10884 10380 Watching for file changes with StatReloader
+INFO 2024-01-25 16:46:54,237 views 10884 19328 Index page accessed
+INFO 2024-01-25 16:46:54,238 basehttp 10884 19328 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 16:48:59,284 views 10884 19328 Index page accessed
+INFO 2024-01-25 16:48:59,285 basehttp 10884 19328 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 16:49:01,609 views 10884 19328 Index page accessed
+INFO 2024-01-25 16:49:01,609 basehttp 10884 19328 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 16:49:03,405 views 10884 19328 Index page accessed
+INFO 2024-01-25 16:49:03,405 basehttp 10884 19328 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 16:49:18,635 autoreload 8012 18892 Watching for file changes with StatReloader
+INFO 2024-01-25 16:49:21,648 views 8012 6332 Index page accessed
+INFO 2024-01-25 16:49:21,648 basehttp 8012 6332 "GET / HTTP/1.1" 200 13
+INFO 2024-01-25 16:49:23,722 views 8012 6332 Index page accessed
+INFO 2024-01-25 16:49:23,723 basehttp 8012 6332 "GET / HTTP/1.1" 200 13
